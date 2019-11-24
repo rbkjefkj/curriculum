@@ -50,7 +50,7 @@ Submit a link below to [this file](https://github.com/TheOdinProject/curriculum/
 * [Adrien Pardo's solution](https://github.com/Shieboo/responsive-design) - [View in browser](https://shieboo.github.io/responsive-design/)
 * [theghall's solution](https://github.com/theghall/odin-responsive-design) - [View in browser](https://theghall.github.io/odin-responsive-design/)
 * [Jonathan Yiv's solution](https://github.com/JonathanYiv/the-next-web) - [View in browser](http://jonathanyiv.com/the-next-web/)
-* [Jmooree's solution](https://github.com/jmooree30/the-next-web) - [View in browser](https://jmooree30.github.io/the-next-web/)
+* [Jmooree's solution](https://github.com/jmooree30/the-next-web) - [View in browser](https://jmooree30.github.io/the-next-web/) 
 * [Axel's solution](https://github.com/afuh/next-web) - [View in browser](http://next-web.surge.sh/)
 * [yilmazgunalp's solution](https://github.com/yilmazgunalp/next-web) - [View in browser](https://yilmazgunalp.github.io/next-web/)
 * [Leah Xia's solution](https://github.com/LeahXia/the-next-web.git) - [View in browser](http://leahxia.com/internal-links/the-next-web/index.html)
